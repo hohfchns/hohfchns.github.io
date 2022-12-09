@@ -18,7 +18,7 @@ The goal of the game is to eliminate the other player, simple as that!
 
 # Weekly Preview
 ---
-![Preview](media/foty_preview.gif)
+![Preview](media/foty_preview_2.gif)
 
 
 

@@ -11,7 +11,7 @@ In here you can find updates on my latest developments, as well as details on pr
 # [Fight Of The Year]({{site.url}}/foty) - My current game in progress
 *v0.1 preview*
 
-[![Preview](media/foty_preview.gif)]({{site.url}}/foty)
+[![Preview](media/foty_preview_2.gif)]({{site.url}}/foty)
 
 ---
 
